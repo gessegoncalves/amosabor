@@ -1,0 +1,42 @@
+.item{
+	border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border: 0px solid #000000;
+	-webkit-box-shadow: 10px 10px 21px -4px rgba(0,0,0,0.91);
+	-moz-box-shadow: 10px 10px 21px -4px rgba(0,0,0,0.91);
+	box-shadow: 10px 10px 21px -4px rgba(0,0,0,0.91);
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	padding-top: 3px;
+	padding-left:10px; 
+	padding-right:10px; 
+}
+
+.item .item-texto{
+	height: 70px;
+}
+
+.item p{
+	font-size: 11px;
+	margin-bottom: 0px;
+}
+.item .titulo{
+	
+	margin-bottom: -15px;
+	
+}
+.item .texto{
+    max-height: 110px;
+    min-height: 110px;
+}
+
+.item a{
+	margin-top: 5px;
+}
+
+
+.btn-group .btn{
+	margin-top: 15px;
+	width: 100px;
+}
